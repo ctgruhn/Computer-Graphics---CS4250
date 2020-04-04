@@ -1,0 +1,3 @@
+﻿  GruhnHw5.cpp
+C:\Users\Carl\source\repos\GruhnHw5\GruhnHw5\GruhnHw5.cpp(51,16): error C2065: 'mouseCollectPoints': undeclared identifier
+C:\Users\Carl\source\repos\GruhnHw5\GruhnHw5\GruhnHw5.cpp(52,24): error C2065: 'trackMouseMove': undeclared identifier
